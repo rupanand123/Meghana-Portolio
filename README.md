@@ -52,4 +52,4 @@ An editorial-style, high-fidelity portfolio website built with React, Tailwind C
 - `src/components/`: Reusable UI components (if applicable).
 
 ---
-Built with ❤️ by Rupanand Palakurthi
+Built with ❤️ by Meghana
