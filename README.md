@@ -1,4 +1,4 @@
-# Rupanand Palakurthi | AI & Full Stack Developer Portfolio
+# PALLEM MEGHANA NAGA RAJESWARI | AI & Full Stack Developer Portfolio
 
 An editorial-style, high-fidelity portfolio website built with React, Tailwind CSS, and Framer Motion. This site showcases the professional profile, projects, and technical competencies of Rupanand Palakurthi.
 
